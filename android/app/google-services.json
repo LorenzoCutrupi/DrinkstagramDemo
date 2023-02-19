@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634923252782",
+    "project_id": "drinkstagram-d371d",
+    "storage_bucket": "drinkstagram-d371d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634923252782:android:48bd9dd6e9a63cfeccf3bf",
+        "android_client_info": {
+          "package_name": "com.example.provauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634923252782-1lfc3af6026tkvnrth1dgna5evrj2bnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXttCCxspNIyWj8G7acETLv_Fy_xtWMxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634923252782-1lfc3af6026tkvnrth1dgna5evrj2bnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
